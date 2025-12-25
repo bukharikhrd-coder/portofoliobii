@@ -1,1 +1,1 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/NAMA-REPO/sw.js', { scope: '/NAMA-REPO/' })})}
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/portofoliobii/sw.js', { scope: '/portofoliobii/' })})}
